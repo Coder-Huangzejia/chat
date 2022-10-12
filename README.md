@@ -25,3 +25,8 @@
 - 前端：Vue2
 - 后端: Node+express
 - 实时通信: websocket
+
+## 启动项目
+- 使用`npm install`安装项目依赖模块
+- 使用`npm run serve`启动前端
+- 使用`npm run prod`启动后端
